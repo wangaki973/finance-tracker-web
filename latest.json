@@ -1,0 +1,12 @@
+{
+  "versionName": "2.0.1",
+  "versionCode": 8,
+  "minimumVersionCode": 8,
+  "apkUrl": "https://github.com/wangaki973/finance-tracker-web/releases/download/v2.0.1/my-wallet-2.0.1.apk",
+  "sha256": "843792e6a1be1da9d2f43788ef948157956b14f6a0d7cb8694cbdf62001f9349",
+  "notes": [
+    "登录状态不再受 VPN 开关影响",
+    "关闭 VPN 时保留本机数据并暂停云端同步",
+    "恢复网络后可直接上传或下载，无需重新登录"
+  ]
+}
